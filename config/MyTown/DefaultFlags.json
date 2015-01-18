@@ -1,0 +1,52 @@
+[
+  {
+    "flagType": "enter",
+    "defaultState": true,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "modifyBlocks",
+    "defaultState": false,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "accessBlocks",
+    "defaultState": false,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "pickupItems",
+    "defaultState": true,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "explosions",
+    "defaultState": false,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "mobs",
+    "defaultState": "all",
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "attackEntities",
+    "defaultState": false,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "useItems",
+    "defaultState": false,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "activateBlocks",
+    "defaultState": false,
+    "isAllowedInTowns": true
+  },
+  {
+    "flagType": "pumps",
+    "defaultState": true,
+    "isAllowedInTowns": true
+  }
+]

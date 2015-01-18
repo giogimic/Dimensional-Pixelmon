@@ -1,0 +1,18 @@
+[
+  {
+    "flagType": "modifyBlocks",
+    "value": true
+  },
+  {
+    "flagType": "accessBlocks",
+    "value": true
+  },
+  {
+    "flagType": "explosions",
+    "value": false
+  },
+  {
+    "flagType": "activateBlocks",
+    "value": true
+  }
+]
